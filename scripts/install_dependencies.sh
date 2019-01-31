@@ -1,1 +1,2 @@
-echo "hello"
+#!bin/bash
+sudo yum install httpd
