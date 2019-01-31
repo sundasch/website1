@@ -1,1 +1,2 @@
-sudo yum install httpd
+hostname
+sudo yum install httpd 
