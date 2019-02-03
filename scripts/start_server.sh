@@ -1,2 +1,1 @@
-#!/bin/bash
-service httpd start
+echo "I am at Start Server"
