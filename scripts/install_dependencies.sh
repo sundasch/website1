@@ -1,1 +1,1 @@
-echo "I am at Install Script"
+rm -f /var/www/html/index.html
