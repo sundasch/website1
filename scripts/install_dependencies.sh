@@ -1,1 +1,1 @@
-yum install -y httpd
+echo "I am at Install Script"
